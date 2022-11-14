@@ -8,3 +8,4 @@ This repo is for the final project of course DS-GA 1007 at NYU CDS
 * [Climate data](https://www.ncei.noaa.gov/cdo-web/)
 * [Census](https://www.census.gov/quickfacts/NY?)
 * [Environment](https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r)
+* [Census Structured Data](https://data.census.gov/cedsci/table)
